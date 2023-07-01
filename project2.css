@@ -131,26 +131,33 @@
   .guide:hover .nav-link[href="#guide"] {
     background-color: #4070f4;
   }
-  
+
 .home{
     background-image: url(img10.jpeg);
+    background-size: cover;
     background-repeat: no-repeat;
    
 }
 .contact{
     background-image: url(img6.jpeg);
+    background-size: cover;
     background-repeat: no-repeat;
    
 }
 .information{
     background-image: url(img4.jpeg);
+    background-size: cover;
     background-repeat: no-repeat;
    
 }
 .guide{
     background-image: url(img8.jpeg);
+    background-size: cover;
     background-repeat: no-repeat;
    
 }
+
+
+
 
 
